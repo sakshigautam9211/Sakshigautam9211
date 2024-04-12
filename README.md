@@ -1,4 +1,4 @@
-![logo](https://github.com/sakshigautam9211/sakshigautam9211/blob/main/all%20feature.jpg)
+![logo](https://github.com/sakshigautam9211/sakshigautam9211/blob/main/microsoft.avif)
 <h1 align="center">Hi 👋, I'm Sakshi Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
