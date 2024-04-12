@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIM40M__4Lns_gf9ts1qQs4UNMhUHRz9ob6Q&s)]
+![logo](https://github.com/sakshigautam9211/sakshigautam9211/blob/main/github%20baner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
