@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coading" width="400" src="https://github.com/sakshigautam9211/sakshigautam9211/blob/main/Gif.png">
-<img align="right" alt="coading" width="400" src="">
+<img align="right" alt="coading" width="400" src="https://github.com/sakshigautam9211/sakshigautam9211/blob/main/coading.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshigautam9211&label=Profile%20views&color=0e75b6&style=flat" alt="sakshigautam9211" /> </p>
 
 - 🔭 I’m currently Studying Computer science [python](https://github.com/sakshigautam9211/Python.git)
